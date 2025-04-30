@@ -29,7 +29,7 @@ Everything we automate lives in GitHub. Everything we do is forkable, inspectabl
 - Built to be handed off — not held hostage
 
 We don’t sell “centralized control.”  
-We provide tools that **decentralize trust**.
+We provide tools that **extend trust in consultancy and engineering**.
 
 ---
 
