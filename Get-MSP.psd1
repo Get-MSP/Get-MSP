@@ -1,6 +1,6 @@
 @{
     RootModule        = 'Get-MSP.psm1'
-    ModuleVersion     = '0.1.1'
+    ModuleVersion     = '0.1.2'
     GUID              = '65ca63f2-4c9c-4254-9cf3-2aa12c528e5c'
     Author            = 'dmidlo@gmail.com'
     CompanyName       = 'Get-MSP'
